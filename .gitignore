@@ -1,0 +1,18 @@
+# Dataset
+cyber/backend/HateSpeechDataset_Ekman_final.csv
+
+# Python
+cyber/backend/venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
